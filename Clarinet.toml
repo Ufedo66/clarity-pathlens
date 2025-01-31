@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.pathlens-achievement]
+path = "contracts/pathlens-achievement.clar"
+depends_on = []
+
 [contracts.pathlens-core]
 path = "contracts/pathlens-core.clar"
 depends_on = []
